@@ -7,7 +7,7 @@
 ##
 
 <p align="center">
-  <img alt="relogio analogico" src=".github/preview.png" width="100%">
+  <img alt="relogio analogico" src="https://user-images.githubusercontent.com/99362684/200394973-117ef0bb-ffce-429f-b23b-f236f62d89f1.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
