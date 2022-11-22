@@ -20,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Relógio Analogico mostra horas, minutos e segundos.
+O Relógio Digital mostra horas, minutos e segundos.
 
 Feito com ♥ by JúliaFranciscatte
